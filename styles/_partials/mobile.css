@@ -1,0 +1,287 @@
+@media screen and (max-width: 640px) {
+
+}
+
+
+
+
+
+
+
+@media screen and (max-width: 632px) {
+    section {
+	    margin: 20px 70px 20px 70px;
+    }
+}
+
+
+
+
+
+
+
+@media screen and (max-width: 620px) {
+    #nav_mobile {
+        display: none;
+    }
+
+    #cv_box {
+        padding-top: 200px;
+    }
+}
+
+
+
+
+
+
+@media screen and (max-width: 562px) {
+    .descri_rea {
+        height: 150px;
+    }
+}
+
+
+
+
+
+
+
+@media screen and (max-width: 532px) {
+    #block_nav {
+        top: 30px;
+        right: 30px;
+    }
+    #hamburger:hover #nav_mobile {
+        margin-left: -144px;
+        margin-top: -86px;
+    }
+
+    section {
+	    margin: 20px 60px 20px 60px;
+    }
+}
+
+
+
+
+
+
+
+
+
+@media screen and (max-width: 512px) {
+    .hobbies_box {
+        width: 70px;
+    }
+
+    .cercle {
+        padding: 20px;
+        width: 30px;
+        height: 30px;
+        font-size: 30px;
+    }
+
+    #hobbies_titre {
+        font-size: 18px;
+    }
+
+    #web .bg_skill .fa-desktop {
+        font-size: 120px;
+    }
+    #apps .bg_skill .fa {
+        font-size: 105px;
+    }
+
+    #autres .bg_skill .fa {
+        font-size: 130px;
+    }
+}
+
+
+
+
+
+@media screen and (max-width: 480px) {
+    h1 {
+        font-size: 25px;
+    }
+
+    h2 {
+        font-size: 38px;
+        padding: 30px 0px 40px 40px;
+    }
+
+    h2 .fa {
+        padding-right: 25px;
+    }
+}
+
+
+
+
+
+
+@media screen and (max-width: 464px) {
+    #apps #icons {
+        font-size: 100px;
+    }
+}
+
+
+
+
+@media screen and (max-width: 435px) {
+    #block_nav {
+        top: 20px;
+        right: 20px;
+    }
+    #hamburger:hover #nav_mobile {
+        margin-left: -154px;
+        margin-top: -76px;
+    }
+    
+    section {
+	    margin: 20px 50px 20px 50px;
+    }
+}
+
+
+
+
+
+@media screen and (max-width: 415px) {
+    h1 {
+        font-size: 20px;
+    }
+    #nom {
+        font-size: 15px;
+    }
+
+    section {
+	    margin: 20px 40px 20px 40px;
+    }
+}
+
+
+
+@media screen and (max-width: 400px) {
+    #block_nav {
+        top: 30px;
+        right: 30px;
+    }
+
+    #block_nav img {
+        width: 216px;
+    }
+
+    #hamburger:hover #nav_mobile {
+        margin-left: -126px;
+        margin-top: -86px;
+        width: 216px;
+    }
+}
+
+
+
+
+@media screen and (max-width: 395px) {
+    .hobbies_box {
+        width: 60px;
+    }
+
+    .cercle {
+        padding: 20px;
+        width: 20px;
+        height: 20px;
+        font-size: 20px;
+    }
+
+    #hobbies_titre {
+        font-size: 15px;
+        padding-top: 20px;
+    }
+
+    .img_rea img {
+        width: 60px;
+    }
+
+    .descri_rea {
+        height: 165px;
+    }
+}
+
+@media screen and (max-width: 384px) {
+    .box_rea {
+        height: 210px;
+    }
+
+    .descri_rea {
+        height: 190px;
+    }
+}
+
+
+
+
+@media screen and (max-width: 380px) {
+    h2 {
+        font-size: 30px;
+    }
+}
+
+
+
+
+
+@media screen and (max-width: 372px) {
+    .img_rea img {
+        width: 50px;
+    }
+
+    .box_rea {
+        height: 240px;
+    }
+
+    .descri_rea {
+        height: 220px;
+    }
+}
+
+
+
+
+@media screen and (max-width: 352px) {
+    .hobbies_box {
+        width: 50px;
+    }
+
+    .hobbies_box p {
+        font-size: 12px;
+    }
+
+    .cercle {
+        padding: 15px;
+        width: 15px;
+        height: 15px;
+        font-size: 20px;
+    }
+
+    #hobbies_titre {
+        font-size: 13px;
+        padding-top: 12px;
+    }
+}
+
+@media screen and (max-width: 335px) {
+    #web .bg_skill .fa-desktop {
+        font-size: 80px;
+    }
+    #apps .bg_skill .fa {
+        font-size: 60px;
+    }
+
+    #autres .bg_skill .fa {
+        font-size: 90px;
+    }
+}
